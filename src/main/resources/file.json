@@ -1,0 +1,48 @@
+[
+	{
+		"id": 1,
+		"executionId": "null",
+		"instanceId": "ddc9bc07-4eb6-11e8-a4a3-406c8f40d40a",
+		"businessKey": "null",
+		"businessId": "0123456789",
+		"processName": "customer_order_process",
+		"definitionId": "1478d801-4426-11e8-8b03-406c8f40d40a",
+		"tenantId": "null",
+		"caseInstanceId": "null",
+		"ended": false,
+		"suspended": false,
+		"type": "customer_order_process",
+		"states": {
+			"loaded": true,
+			"saved": false,
+			"updated": false,
+			"deleted": false,
+			"isNew": false,
+			"dirty": false,
+			"modified": false
+		}
+	},
+	{
+		"id": 2,
+		"executionId": "null",
+		"instanceId": "de7f508f-4eb6-11e8-a4a3-406c8f40d40a",
+		"businessKey": "null",
+		"businessId": "0123456789",
+		"processName": "customer_order_management_process",
+		"definitionId": "147a1084-4426-11e8-8b03-406c8f40d40a",
+		"tenantId": "null",
+		"caseInstanceId": "null",
+		"ended": false,
+		"suspended": false,
+		"type": "customer_order_process",
+		"states": {
+			"loaded": true,
+			"saved": false,
+			"updated": false,
+			"deleted": false,
+			"isNew": false,
+			"dirty": false,
+			"modified": false
+		}
+	}
+]
